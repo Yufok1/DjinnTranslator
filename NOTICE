@@ -1,0 +1,86 @@
+SpliceWeb
+Copyright 2024
+
+This software includes components from the following third-party sources:
+
+1. Python Standard Library
+   - Copyright (c) 2001-2024 Python Software Foundation
+   - All Rights Reserved
+
+2. Jupyter
+   - Copyright (c) 2015-2024 Project Jupyter Contributors
+   - All Rights Reserved
+
+3. NumPy
+   - Copyright (c) 2005-2024 NumPy Developers
+   - All Rights Reserved
+
+4. Pandas
+   - Copyright (c) 2008-2024 AQR Capital Management, LLC
+   - All Rights Reserved
+
+5. Matplotlib
+   - Copyright (c) 2012-2024 Matplotlib Development Team
+   - All Rights Reserved
+
+6. SciPy
+   - Copyright (c) 2001-2024 SciPy Developers
+   - All Rights Reserved
+
+7. scikit-learn
+   - Copyright (c) 2007-2024 The scikit-learn developers
+   - All Rights Reserved
+
+8. PyTorch
+   - Copyright (c) 2016-2024 Facebook, Inc.
+   - All Rights Reserved
+
+9. TensorFlow
+   - Copyright (c) 2015-2024 The TensorFlow Authors
+   - All Rights Reserved
+
+10. Transformers
+    - Copyright (c) 2018-2024 Hugging Face, Inc.
+    - All Rights Reserved
+
+11. FastAPI
+    - Copyright (c) 2018-2024 Sebastián Ramírez
+    - All Rights Reserved
+
+12. Pydantic
+    - Copyright (c) 2017-2024 Samuel Colvin
+    - All Rights Reserved
+
+13. SQLAlchemy
+    - Copyright (c) 2005-2024 SQLAlchemy authors and contributors
+    - All Rights Reserved
+
+14. Alembic
+    - Copyright (c) 2009-2024 Michael Bayer
+    - All Rights Reserved
+
+15. pytest
+    - Copyright (c) 2004-2024 Holger Krekel and others
+    - All Rights Reserved
+
+16. black
+    - Copyright (c) 2018-2024 Łukasz Langa and contributors
+    - All Rights Reserved
+
+17. isort
+    - Copyright (c) 2013-2024 Timothy Crosley
+    - All Rights Reserved
+
+18. mypy
+    - Copyright (c) 2012-2024 Jukka Lehtosalo and contributors
+    - All Rights Reserved
+
+19. flake8
+    - Copyright (c) 2011-2024 Tarek Ziade
+    - All Rights Reserved
+
+20. coverage
+    - Copyright (c) 2004-2024 Ned Batchelder
+    - All Rights Reserved
+
+This NOTICE file is provided in accordance with the Apache License 2.0. 
