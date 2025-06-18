@@ -1,0 +1,46 @@
+# Core Dependencies
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+PyYAML>=6.0
+psutil>=5.8.0
+sounddevice>=0.4.4
+librosa>=0.10.0
+plotly>=5.1.0
+schedule>=1.1.0
+pdfkit>=1.0.0
+wkhtmltopdf>=0.2
+jinja2>=3.0.0
+
+# UI Dependencies
+PyQt5>=5.15.0
+PyQtWebEngine>=5.15.0
+
+# Testing Dependencies
+pytest>=6.2.0
+pytest-cov>=2.12.0
+
+# Development Dependencies
+black>=21.5b2
+flake8>=3.9.0
+mypy>=0.910
+
+# Cursor Integration
+cursor_kernel_reset==0.1.0
+ipython>=8.0.0
+ipykernel>=6.0.0
+jupyter-client>=7.0.0
+pyzmq>=23.0
+
+# Note: The following packages are part of Python's standard library
+# and do not need to be installed via pip:
+# - tkinter
+# - ttk
+# - hashlib
+# - json
+# - datetime
+# - threading
+# - queue
+# - os 

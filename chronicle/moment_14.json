@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-06-17T07:00:25.263908",
+  "type": "quantum_protection",
+  "description": "Quantum honeypot 'recursive_trap' created",
+  "reflection": "A trap woven from quantum threads",
+  "metadata": {
+    "protection_type": "honeypot",
+    "name": "recursive_trap",
+    "entanglement_count": 0,
+    "attraction_strength": 1.0
+  }
+}
